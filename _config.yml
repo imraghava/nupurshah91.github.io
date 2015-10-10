@@ -6,7 +6,7 @@ header-img: img/home-bg.jpg
 email: jimit@outlook.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: "http://jimgeek.github.io/"
+url: "http://jimgeek.github.io"
 author:
   facebook:     Jimit1989
   twitter:      jimitnow
