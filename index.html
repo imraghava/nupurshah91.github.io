@@ -5,7 +5,7 @@ description: "A Clean Blog Theme by Start Bootstrap"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <img src="{{ site.baseurl }}/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+    <img src="{{ site.baseurl }}{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
         </h2>
