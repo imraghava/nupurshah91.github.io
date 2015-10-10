@@ -1,13 +1,17 @@
 # Site settings
-title: Clean Blog
+title: Code For Food
+name: CodeForFood
+locale: en_us
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: jimit@outlook.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+baseurl: ""
+url: "http://codeforfood.in"
+author:
+  facebook:     Jimit1989
+  twitter:      jimitnow
+  google_plus:  JIMITSHAH
+  github: JimGeek
 
 # Build settings
 markdown: kramdown
