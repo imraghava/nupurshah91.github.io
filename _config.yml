@@ -1,18 +1,18 @@
 # Site settings
-title: Code For Food
-name: CodeForFood
+title: Bumpy Rides
+name: Bumpy Rides
 locale: en_us
 logo: img/logo.png
 header-img: img/home-cover.png
-email: jimit@outlook.com
+email: nupur91shah@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: "http://codeforfood.in"
+url: "http://bumpyrides.in"
 author:
-  facebook:     Jimit1989
-  twitter:      jimitnow
-  google_plus:  JIMITSHAH
-  github: JimGeek
+  facebook:     nupur.shah.1654
+  twitter:      nupurshah91
+  google_plus:  NupurShah91
+  github: nupurshah91
 
 # Build settings
 markdown: kramdown
